@@ -1,0 +1,12 @@
+
+.logo{
+    width: 3rem;
+}
+
+
+nav a.nav-link {
+    font-weight: 500;
+    letter-spacing: 0.0325rem;
+    cursor: pointer;
+    color: white;
+}
